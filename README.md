@@ -20,54 +20,54 @@
 
   **🧑‍💻 code**
 
-&nbsp;<img width="25px" src="https://unpkg.com/simple-icons@6.3.0/icons/visualstudiocode.svg" alt='visualstudiocode' title='visualstudiocode' />
-  <img width="25px" src="https://unpkg.com/simple-icons@6.3.0/icons/typescript.svg" alt='typescript'  title='typescript' />
-  <img width="25px" src="https://unpkg.com/simple-icons@6.3.0/icons/javascript.svg" alt='javascript' title='javascript' />
-  <img width="25px" src="https://unpkg.com/simple-icons@6.3.0/icons/react.svg" alt='react'  title='react' />
-  <img width="25px" src="https://unpkg.com/simple-icons@6.3.0/icons/nextdotjs.svg" alt='nextdotjs' title='nextdotjs' />
-  <img width="25px" src="https://unpkg.com/simple-icons@6.3.0/icons/styledcomponents.svg" alt='styledcomponents' title='styledcomponents' />
-  <img width="25px" src="https://unpkg.com/simple-icons@6.3.0/icons/redux.svg" alt='redux' title='redux' />
-  <img width="25px" src="https://unpkg.com/simple-icons@6.3.0/icons/reduxsaga.svg" alt='reduxsaga'  title='reduxsaga' />
-  <img width="25px" src="https://unpkg.com/simple-icons@6.3.0/icons/nodedotjs.svg" alt='nodedotjs' title='nodedotjs' />
-  <img width="25px" src="https://unpkg.com/simple-icons@6.3.0/icons/express.svg" alt='express' title='express' />
-  <img width="25px" src="https://unpkg.com/simple-icons@6.3.0/icons/tsnode.svg" alt='tsnode' title='tsnode' />
+&nbsp;<img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/visualstudiocode.svg" alt='visualstudiocode' title='visualstudiocode' />
+  <img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/typescript.svg" alt='typescript'  title='typescript' />
+  <img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg" alt='javascript' title='javascript' />
+  <img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/react.svg" alt='react'  title='react' />
+  <img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nextdotjs.svg" alt='nextdotjs' title='nextdotjs' />
+  <img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/styledcomponents.svg" alt='styledcomponents' title='styledcomponents' />
+  <img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/redux.svg" alt='redux' title='redux' />
+  <img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/reduxsaga.svg" alt='reduxsaga'  title='reduxsaga' />
+  <img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nodedotjs.svg" alt='nodedotjs' title='nodedotjs' />
+  <img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/express.svg" alt='express' title='express' />
+  <img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tsnode.svg" alt='tsnode' title='tsnode' />
 
   **⚙️ test**
 
-&nbsp;<img width="25px" src="https://unpkg.com/simple-icons@6.3.0/icons/cypress.svg" alt='cypress' title='cypress' />
-  <img width="25px" src="https://unpkg.com/simple-icons@6.3.0/icons/jest.svg" alt='jest' title='jest' />
+&nbsp;<img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" alt='cypress' title='cypress' />
+  <img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jest.svg" alt='jest' title='jest' />
 
   **🔍 lint**
 
-&nbsp;<img width="25px" src="https://unpkg.com/simple-icons@6.3.0/icons/eslint.svg" alt='eslint' title='eslint' />
-  <img width="25px" src="https://unpkg.com/simple-icons@6.3.0/icons/prettier.svg" alt='prettier' title='prettier' />
-  <img width="25px" src="https://unpkg.com/simple-icons@6.3.0/icons/stylelint.svg" alt='stylelint' title='stylelint' />
+&nbsp;<img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/eslint.svg" alt='eslint' title='eslint' />
+  <img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/prettier.svg" alt='prettier' title='prettier' />
+  <img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/stylelint.svg" alt='stylelint' title='stylelint' />
 
   **🤝 collaborate**
 
-&nbsp;<img width="25px" src="https://unpkg.com/simple-icons@6.3.0/icons/github.svg" alt='github' title='github' />
-  <img width="25px" src="https://unpkg.com/simple-icons@6.3.0/icons/storybook.svg" alt='storybook' title='storybook' />
-  <img width="25px" src="https://unpkg.com/simple-icons@6.3.0/icons/figma.svg" alt='figma' title='figma' />
-  <img width="25px" src="https://unpkg.com/simple-icons@6.3.0/icons/notion.svg" alt='notion' title='notion' />
+&nbsp;<img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt='github' title='github' />
+  <img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/storybook.svg" alt='storybook' title='storybook' />
+  <img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/figma.svg" alt='figma' title='figma' />
+  <img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/notion.svg" alt='notion' title='notion' />
 
   **🚀 deploy**
 
-&nbsp;<img width="25px" src="https://unpkg.com/simple-icons@6.3.0/icons/vercel.svg" alt='vercel' title='vercel' />
-  <img width="25px" src="https://unpkg.com/simple-icons@6.3.0/icons/amazonaws.svg" alt='amazonaws' title='amazonaws' />
+&nbsp;<img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vercel.svg" alt='vercel' title='vercel' />
+  <img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonaws.svg" alt='amazonaws' title='amazonaws' />
 
   **🚨 monitor**
 
-&nbsp;<img width="25px" src="https://unpkg.com/simple-icons@6.3.0/icons/sentry.svg" alt='sentry' title='sentry' />
-  <img width="25px" src="https://unpkg.com/simple-icons@6.3.0/icons/codacy.svg" alt='codacy' title='codacy' />
-  <img width="25px" src="https://unpkg.com/simple-icons@6.3.0/icons/percy.svg" alt='percy' title='percy' />
-  <img width="25px" src="https://unpkg.com/simple-icons@6.3.0/icons/googleoptimize.svg" alt='googleoptimize' title='googleoptimize' />
-  <img width="25px" src="https://unpkg.com/simple-icons@6.3.0/icons/googletagmanager.svg" alt='googletagmanager' title='googletagmanager' />
+&nbsp;<img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sentry.svg" alt='sentry' title='sentry' />
+  <img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codacy.svg" alt='codacy' title='codacy' />
+  <img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/percy.svg" alt='percy' title='percy' />
+  <img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googleoptimize.svg" alt='googleoptimize' title='googleoptimize' />
+  <img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googletagmanager.svg" alt='googletagmanager' title='googletagmanager' />
 
   **🤖 automate**
 
-&nbsp;<img width="25px" src="https://unpkg.com/simple-icons@6.3.0/icons/githubactions.svg" alt='githubactions' title='githubactions' />
-  <img width="25px" src="https://unpkg.com/simple-icons@6.3.0/icons/dependabot.svg" alt='dependabot' title='dependabot' />
-  <img width="25px" src="https://unpkg.com/simple-icons@6.3.0/icons/dashlane.svg" alt='dashlane' title='dashlane' />
+&nbsp;<img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubactions.svg" alt='githubactions' title='githubactions' />
+  <img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/dependabot.svg" alt='dependabot' title='dependabot' />
+  <img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/dashlane.svg" alt='dashlane' title='dashlane' />
 </div>
 
 
