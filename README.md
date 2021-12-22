@@ -18,31 +18,38 @@
 
 **🧑‍💻 code**
 
-<img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/visualstudiocode.svg" alt='visualstudiocode' title='visualstudiocode' /> <img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/typescript.svg" alt='typescript'  title='typescript' /> <img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg" alt='javascript' title='javascript' /> <img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/react.svg" alt='react'  title='react' /> <img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nextdotjs.svg" alt='nextdotjs' title='nextdotjs' /> <img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/styledcomponents.svg" alt='styledcomponents' title='styledcomponents' /> <img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/redux.svg" alt='redux' title='redux' /> <img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/reduxsaga.svg" alt='reduxsaga'  title='reduxsaga' /> <img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nodedotjs.svg" alt='nodedotjs' title='nodedotjs' /> <img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/express.svg" alt='express' title='express' /> <img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tsnode.svg" alt='tsnode' title='tsnode' />
+<img width="25px" src="icons/dark/visualstudiocode.svg#gh-light-mode-only" alt='visualstudiocode' title='visualstudiocode' /> <img width="25px" src="icons/dark/typescript.svg#gh-light-mode-only" alt='typescript'  title='typescript' /> <img width="25px" src="icons/dark/javascript.svg#gh-light-mode-only" alt='javascript' title='javascript' /> <img width="25px" src="icons/dark/react.svg#gh-light-mode-only" alt='react'  title='react' /> <img width="25px" src="icons/dark/nextdotjs.svg#gh-light-mode-only" alt='nextdotjs' title='nextdotjs' /> <img width="25px" src="icons/dark/styledcomponents.svg#gh-light-mode-only" alt='styledcomponents' title='styledcomponents' /> <img width="25px" src="icons/dark/redux.svg#gh-light-mode-only" alt='redux' title='redux' /> <img width="25px" src="icons/dark/reduxsaga.svg#gh-light-mode-only" alt='reduxsaga'  title='reduxsaga' /> <img width="25px" src="icons/dark/nodedotjs.svg#gh-light-mode-only" alt='nodedotjs' title='nodedotjs' /> <img width="25px" src="icons/dark/express.svg#gh-light-mode-only" alt='express' title='express' /> <img width="25px" src="icons/dark/tsnode.svg#gh-light-mode-only" alt='tsnode' title='tsnode' />
+<img width="25px" src="icons/light/visualstudiocode.svg#gh-dark-mode-only" alt='visualstudiocode' title='visualstudiocode' /> <img width="25px" src="icons/light/typescript.svg#gh-dark-mode-only" alt='typescript'  title='typescript' /> <img width="25px" src="icons/light/javascript.svg#gh-dark-mode-only" alt='javascript' title='javascript' /> <img width="25px" src="icons/light/react.svg#gh-dark-mode-only" alt='react'  title='react' /> <img width="25px" src="icons/light/nextdotjs.svg#gh-dark-mode-only" alt='nextdotjs' title='nextdotjs' /> <img width="25px" src="icons/light/styledcomponents.svg#gh-dark-mode-only" alt='styledcomponents' title='styledcomponents' /> <img width="25px" src="icons/light/redux.svg#gh-dark-mode-only" alt='redux' title='redux' /> <img width="25px" src="icons/light/reduxsaga.svg#gh-dark-mode-only" alt='reduxsaga'  title='reduxsaga' /> <img width="25px" src="icons/light/nodedotjs.svg#gh-dark-mode-only" alt='nodedotjs' title='nodedotjs' /> <img width="25px" src="icons/light/express.svg#gh-dark-mode-only" alt='express' title='express' /> <img width="25px" src="icons/light/tsnode.svg#gh-dark-mode-only" alt='tsnode' title='tsnode' />
 
 **⚙️ test**
 
-<img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" alt='cypress' title='cypress' /> <img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jest.svg" alt='jest' title='jest' />
+<img width="25px" src="icons/dark/cypress.svg#gh-light-mode-only" alt='cypress' title='cypress' /> <img width="25px" src="icons/dark/jest.svg#gh-light-mode-only" alt='jest' title='jest' />
+<img width="25px" src="icons/light/cypress.svg#gh-dark-mode-only" alt='cypress' title='cypress' /> <img width="25px" src="icons/light/jest.svg#gh-dark-mode-only" alt='jest' title='jest' />
 
 **🔍 lint**
 
-<img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/eslint.svg" alt='eslint' title='eslint' /> <img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/prettier.svg" alt='prettier' title='prettier' /> <img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/stylelint.svg" alt='stylelint' title='stylelint' />
+<img width="25px" src="icons/dark/eslint.svg#gh-light-mode-only" alt='eslint' title='eslint' /> <img width="25px" src="icons/dark/prettier.svg#gh-light-mode-only" alt='prettier' title='prettier' /> <img width="25px" src="icons/dark/stylelint.svg#gh-light-mode-only" alt='stylelint' title='stylelint' />
+<img width="25px" src="icons/light/eslint.svg#gh-dark-mode-only" alt='eslint' title='eslint' /> <img width="25px" src="icons/light/prettier.svg#gh-dark-mode-only" alt='prettier' title='prettier' /> <img width="25px" src="icons/light/stylelint.svg#gh-dark-mode-only" alt='stylelint' title='stylelint' />
 
 **🤝 collaborate**
 
-<img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt='github' title='github' /> <img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/storybook.svg" alt='storybook' title='storybook' /> <img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/figma.svg" alt='figma' title='figma' /> <img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/notion.svg" alt='notion' title='notion' />
+<img width="25px" src="icons/dark/github.svg#gh-light-mode-only" alt='github' title='github' /> <img width="25px" src="icons/dark/storybook.svg#gh-light-mode-only" alt='storybook' title='storybook' /> <img width="25px" src="icons/dark/figma.svg#gh-light-mode-only" alt='figma' title='figma' /> <img width="25px" src="icons/dark/notion.svg#gh-light-mode-only" alt='notion' title='notion' />
+<img width="25px" src="icons/light/github.svg#gh-dark-mode-only" alt='github' title='github' /> <img width="25px" src="icons/light/storybook.svg#gh-dark-mode-only" alt='storybook' title='storybook' /> <img width="25px" src="icons/light/figma.svg#gh-dark-mode-only" alt='figma' title='figma' /> <img width="25px" src="icons/light/notion.svg#gh-dark-mode-only" alt='notion' title='notion' />
 
 **🚀 deploy**
 
-<img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vercel.svg" alt='vercel' title='vercel' /> <img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonaws.svg" alt='amazonaws' title='amazonaws' />
+<img width="25px" src="icons/dark/vercel.svg#gh-light-mode-only" alt='vercel' title='vercel' /> <img width="25px" src="icons/dark/amazonaws.svg#gh-light-mode-only" alt='amazonaws' title='amazonaws' />
+<img width="25px" src="icons/light/vercel.svg#gh-dark-mode-only" alt='vercel' title='vercel' /> <img width="25px" src="icons/light/amazonaws.svg#gh-dark-mode-only" alt='amazonaws' title='amazonaws' />
 
 **🚨 monitor**
 
-<img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sentry.svg" alt='sentry' title='sentry' /> <img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codacy.svg" alt='codacy' title='codacy' /> <img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/percy.svg" alt='percy' title='percy' /> <img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googleoptimize.svg" alt='googleoptimize' title='googleoptimize' /> <img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googletagmanager.svg" alt='googletagmanager' title='googletagmanager' />
+<img width="25px" src="icons/dark/sentry.svg#gh-light-mode-only" alt='sentry' title='sentry' /> <img width="25px" src="icons/dark/codacy.svg#gh-light-mode-only" alt='codacy' title='codacy' /> <img width="25px" src="icons/dark/percy.svg#gh-light-mode-only" alt='percy' title='percy' /> <img width="25px" src="icons/dark/googleoptimize.svg#gh-light-mode-only" alt='googleoptimize' title='googleoptimize' /> <img width="25px" src="icons/dark/googletagmanager.svg#gh-light-mode-only" alt='googletagmanager' title='googletagmanager' />
+<img width="25px" src="icons/light/sentry.svg#gh-dark-mode-only" alt='sentry' title='sentry' /> <img width="25px" src="icons/light/codacy.svg#gh-dark-mode-only" alt='codacy' title='codacy' /> <img width="25px" src="icons/light/percy.svg#gh-dark-mode-only" alt='percy' title='percy' /> <img width="25px" src="icons/light/googleoptimize.svg#gh-dark-mode-only" alt='googleoptimize' title='googleoptimize' /> <img width="25px" src="icons/light/googletagmanager.svg#gh-dark-mode-only" alt='googletagmanager' title='googletagmanager' />
 
 **🤖 automate**
 
-<img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubactions.svg" alt='githubactions' title='githubactions' /> <img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/dependabot.svg" alt='dependabot' title='dependabot' /> <img width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/dashlane.svg" alt='dashlane' title='dashlane' />
+<img width="25px" src="icons/dark/githubactions.svg#gh-light-mode-only" alt='githubactions' title='githubactions' /> <img width="25px" src="icons/dark/dependabot.svg#gh-light-mode-only" alt='dependabot' title='dependabot' /> <img width="25px" src="icons/dark/dashlane.svg#gh-light-mode-only" alt='dashlane' title='dashlane' />
+<img width="25px" src="icons/light/githubactions.svg#gh-dark-mode-only" alt='githubactions' title='githubactions' /> <img width="25px" src="icons/light/dependabot.svg#gh-dark-mode-only" alt='dependabot' title='dependabot' /> <img width="25px" src="icons/light/dashlane.svg#gh-dark-mode-only" alt='dashlane' title='dashlane' />
 
 
 ##### Why?
@@ -56,5 +63,9 @@ Why not?
 [tbspotify]: https://open.spotify.com/artist/3QATmlzrKWh8pfRtSN9WX3?si=nWZx6-F5QyuGtNit6oqEOg
 [tbsc]: https://soundcloud.com/tom-bisley
 [mcsc]: https://soundcloud.com/wearemooncalf
+
+---
+
+<small>Icons by [SimpleIcons](https://simpleicons.org/)</small>
 
 <!-- https://codepen.io/sosuke/pen/Pjoqqp -->
