@@ -2,8 +2,6 @@
 
 ## I'm Thomas, a Technical Lead Frontend based in Lille (France)
 
-<br />
-
 ### **WHO?**
 
 - 🍻 Working at Saveur Bière/Hopt, the biggest online beer seller in Europe
@@ -15,8 +13,6 @@
 - 📻 Fun fact 2: You can access some of my personal music on internet ([here][tbspotify] and [here][tbsc] or even [here][mcsc])
 - 📫 Connect with me on [Twitter][twitter] or [LinkedIn][linkedin]
 - 💅 See some of my visual work on [Codepen][codepen]
-
-<br />
 
 ### **HOW?**
 
@@ -54,8 +50,6 @@
 
 <img width="25px" src="icons/dark/githubactions.svg#gh-light-mode-only" alt='githubactions' title='githubactions' /> <img width="25px" src="icons/dark/dependabot.svg#gh-light-mode-only" alt='dependabot' title='dependabot' /> <img width="25px" src="icons/dark/dashlane.svg#gh-light-mode-only" alt='dashlane' title='dashlane' />
 <img width="25px" src="icons/light/githubactions.svg#gh-dark-mode-only" alt='githubactions' title='githubactions' /> <img width="25px" src="icons/light/dependabot.svg#gh-dark-mode-only" alt='dependabot' title='dependabot' /> <img width="25px" src="icons/light/dashlane.svg#gh-dark-mode-only" alt='dashlane' title='dashlane' />
-
-<br />
 
 ### **Why?**
 
