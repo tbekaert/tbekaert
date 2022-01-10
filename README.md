@@ -1,8 +1,10 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-#### I'm Thomas, a Technical Lead Frontend based in Lille (France)
+## I'm Thomas, a Technical Lead Frontend based in Lille (France)
 
-##### WHO?
+<br />
+
+### **WHO?**
 
 - 🍻 Working at Saveur Bière/Hopt, the biggest online beer seller in Europe
 - 🤝 Making sure my team works with the best tools available
@@ -14,7 +16,9 @@
 - 📫 Connect with me on [Twitter][twitter] or [LinkedIn][linkedin]
 - 💅 See some of my visual work on [Codepen][codepen]
 
-##### HOW?
+<br />
+
+### **HOW?**
 
 **🧑‍💻 code**
 
@@ -51,8 +55,9 @@
 <img width="25px" src="icons/dark/githubactions.svg#gh-light-mode-only" alt='githubactions' title='githubactions' /> <img width="25px" src="icons/dark/dependabot.svg#gh-light-mode-only" alt='dependabot' title='dependabot' /> <img width="25px" src="icons/dark/dashlane.svg#gh-light-mode-only" alt='dashlane' title='dashlane' />
 <img width="25px" src="icons/light/githubactions.svg#gh-dark-mode-only" alt='githubactions' title='githubactions' /> <img width="25px" src="icons/light/dependabot.svg#gh-dark-mode-only" alt='dependabot' title='dependabot' /> <img width="25px" src="icons/light/dashlane.svg#gh-dark-mode-only" alt='dashlane' title='dashlane' />
 
+<br />
 
-##### Why?
+### **Why?**
 
 Why not?
 
