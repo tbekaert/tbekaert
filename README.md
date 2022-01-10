@@ -1,6 +1,6 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## I'm Thomas, a Technical Lead Frontend based in Lille (France)
+### I'm Thomas, a Technical Lead Frontend based in Lille (France)
 
 ### **WHO?**
 
