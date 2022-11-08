@@ -1,10 +1,10 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
-### I'm Thomas, a Technical Lead Frontend based in Lille (France)
+### I'm Thomas, curious frontend guy based in Lille (France)
 
 ### **WHO?**
 
-- 🍻 Working at PerfectDraft (AB InBev), bringing the best beer experience to your home
+- 🍻 Head of Customer Ecosystem Technology @ PerfectDraft (AB InBev), bringing the best bar experience to your home
 - 🤝 Making sure my team works with the best tools available
 - 🤔 Taking complex problems and solve them with simple solutions
 - 🎉 AUTOMATE ALL THE THINGS ([pipedream](https://pipedream.com/) 🔥)
