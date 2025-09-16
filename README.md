@@ -4,15 +4,13 @@
 
 ### **WHO?**
 
-- 🍻 Head of Customer Ecosystem Technology @ PerfectDraft (AB InBev), bringing the best bar experience to your home
+- ✨ Crafting clean & scalable projects making life easier for users and smarter for businesses
 - 🤝 Making sure my team works with the best tools available
 - 🤔 Taking complex problems and solve them with simple solutions
 - 🎉 AUTOMATE ALL THE THINGS ([pipedream](https://pipedream.com/) 🔥)
 - 🚀 Trying to participate more in open source
-- 📻 Fun fact: I'm producing a french radio show about metal music ([link][RMDW])
-- 📻 Fun fact 2: You can access some of my personal music on internet ([here][tbspotify] and [here][tbsc] or even [here][mcsc])
+- 📻 Fun fact: I'm the lead singer and lead guitarist in a punk rock band ([link][IPKISS])
 - 📫 Connect with me on [Twitter][twitter] or [LinkedIn][linkedin]
-- 💅 See some of my visual work on [Codepen][codepen]
 
 ### **HOW?**
 
@@ -55,13 +53,9 @@
 
 Why not?
 
-[RMDW]: https://open.spotify.com/show/2mMV1ZaQxrCi8NXwtmEwTv?si=a79bb64eeeed4c73
+[IPKISS]: https://linktr.ee/weareipkiss
 [twitter]: https://twitter.com/tombek
 [linkedin]: https://www.linkedin.com/in/thomas-bekaert/
-[codepen]: https://codepen.io/tbekaert
-[tbspotify]: https://open.spotify.com/artist/3QATmlzrKWh8pfRtSN9WX3?si=nWZx6-F5QyuGtNit6oqEOg
-[tbsc]: https://soundcloud.com/tom-bisley
-[mcsc]: https://soundcloud.com/wearemooncalf
 
 ---
 
