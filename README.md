@@ -1,64 +1,25 @@
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+# Hi, I’m Thomas 👋
 
-### I'm Thomas, curious frontend guy based in Lille (France)
+Frontend developer crafting interfaces that are **clear, durable, and easy to work with**.
 
-### **WHO?**
+I enjoy building products that feel simple on the surface and stay solid underneath.
 
-- ✨ Crafting clean & scalable projects making life easier for users and smarter for businesses
-- 🤝 Making sure my team works with the best tools available
-- 🤔 Taking complex problems and solve them with simple solutions
-- 🎉 AUTOMATE ALL THE THINGS ([pipedream](https://pipedream.com/) 🔥)
-- 🚀 Trying to participate more in open source
-- 📻 Fun fact: I'm the lead singer and lead guitarist in a punk rock band ([link][IPKISS])
-- 📫 Connect with me on [Twitter][twitter] or [LinkedIn][linkedin]
+## 🧩 What I do
 
-### **HOW?**
+- Design, build and refine modern frontend applications 
+- Turn complex product needs into simple, usable interfaces
+- Design component systems built to last  
+- Continuously refine codebases instead of endlessly rewriting them
 
-**🧑‍💻 code**
 
-<img width="25" src="icons/dark/visualstudiocode.svg#gh-light-mode-only" alt='visualstudiocode' title='visualstudiocode' /> <img width="25" src="icons/dark/typescript.svg#gh-light-mode-only" alt='typescript'  title='typescript' /> <img width="25" src="icons/dark/javascript.svg#gh-light-mode-only" alt='javascript' title='javascript' /> <img width="25" src="icons/dark/react.svg#gh-light-mode-only" alt='react'  title='react' /> <img width="25" src="icons/dark/nextdotjs.svg#gh-light-mode-only" alt='nextdotjs' title='nextdotjs' /> <img width="25" src="icons/dark/styledcomponents.svg#gh-light-mode-only" alt='styledcomponents' title='styledcomponents' /> <img width="25" src="icons/dark/redux.svg#gh-light-mode-only" alt='redux' title='redux' /> <img width="25" src="icons/dark/reduxsaga.svg#gh-light-mode-only" alt='reduxsaga'  title='reduxsaga' /> <img width="25" src="icons/dark/nodedotjs.svg#gh-light-mode-only" alt='nodedotjs' title='nodedotjs' /> <img width="25" src="icons/dark/express.svg#gh-light-mode-only" alt='express' title='express' /> <img width="25" src="icons/dark/tsnode.svg#gh-light-mode-only" alt='tsnode' title='tsnode' />
-<img width="25" src="icons/light/visualstudiocode.svg#gh-dark-mode-only" alt='visualstudiocode' title='visualstudiocode' /> <img width="25" src="icons/light/typescript.svg#gh-dark-mode-only" alt='typescript'  title='typescript' /> <img width="25" src="icons/light/javascript.svg#gh-dark-mode-only" alt='javascript' title='javascript' /> <img width="25" src="icons/light/react.svg#gh-dark-mode-only" alt='react'  title='react' /> <img width="25" src="icons/light/nextdotjs.svg#gh-dark-mode-only" alt='nextdotjs' title='nextdotjs' /> <img width="25" src="icons/light/styledcomponents.svg#gh-dark-mode-only" alt='styledcomponents' title='styledcomponents' /> <img width="25" src="icons/light/redux.svg#gh-dark-mode-only" alt='redux' title='redux' /> <img width="25" src="icons/light/reduxsaga.svg#gh-dark-mode-only" alt='reduxsaga'  title='reduxsaga' /> <img width="25" src="icons/light/nodedotjs.svg#gh-dark-mode-only" alt='nodedotjs' title='nodedotjs' /> <img width="25" src="icons/light/express.svg#gh-dark-mode-only" alt='express' title='express' /> <img width="25" src="icons/light/tsnode.svg#gh-dark-mode-only" alt='tsnode' title='tsnode' />
+## 🛠️ How I work
 
-**⚙️ test**
-
-<img width="25" src="icons/dark/cypress.svg#gh-light-mode-only" alt='cypress' title='cypress' /> <img width="25" src="icons/dark/jest.svg#gh-light-mode-only" alt='jest' title='jest' />
-<img width="25" src="icons/light/cypress.svg#gh-dark-mode-only" alt='cypress' title='cypress' /> <img width="25" src="icons/light/jest.svg#gh-dark-mode-only" alt='jest' title='jest' />
-
-**🔍 lint**
-
-<img width="25" src="icons/dark/eslint.svg#gh-light-mode-only" alt='eslint' title='eslint' /> <img width="25" src="icons/dark/prettier.svg#gh-light-mode-only" alt='prettier' title='prettier' /> <img width="25" src="icons/dark/stylelint.svg#gh-light-mode-only" alt='stylelint' title='stylelint' />
-<img width="25" src="icons/light/eslint.svg#gh-dark-mode-only" alt='eslint' title='eslint' /> <img width="25" src="icons/light/prettier.svg#gh-dark-mode-only" alt='prettier' title='prettier' /> <img width="25" src="icons/light/stylelint.svg#gh-dark-mode-only" alt='stylelint' title='stylelint' />
-
-**🤝 collaborate**
-
-<img width="25" src="icons/dark/github.svg#gh-light-mode-only" alt='github' title='github' /> <img width="25" src="icons/dark/storybook.svg#gh-light-mode-only" alt='storybook' title='storybook' /> <img width="25" src="icons/dark/figma.svg#gh-light-mode-only" alt='figma' title='figma' /> <img width="25" src="icons/dark/notion.svg#gh-light-mode-only" alt='notion' title='notion' />
-<img width="25" src="icons/light/github.svg#gh-dark-mode-only" alt='github' title='github' /> <img width="25" src="icons/light/storybook.svg#gh-dark-mode-only" alt='storybook' title='storybook' /> <img width="25" src="icons/light/figma.svg#gh-dark-mode-only" alt='figma' title='figma' /> <img width="25" src="icons/light/notion.svg#gh-dark-mode-only" alt='notion' title='notion' />
-
-**🚀 deploy**
-
-<img width="25" src="icons/dark/vercel.svg#gh-light-mode-only" alt='vercel' title='vercel' /> <img width="25" src="icons/dark/amazonaws.svg#gh-light-mode-only" alt='amazonaws' title='amazonaws' />
-<img width="25" src="icons/light/vercel.svg#gh-dark-mode-only" alt='vercel' title='vercel' /> <img width="25" src="icons/light/amazonaws.svg#gh-dark-mode-only" alt='amazonaws' title='amazonaws' />
-
-**🚨 monitor**
-
-<img width="25" src="icons/dark/sentry.svg#gh-light-mode-only" alt='sentry' title='sentry' /> <img width="25" src="icons/dark/codacy.svg#gh-light-mode-only" alt='codacy' title='codacy' /> <img width="25" src="icons/dark/percy.svg#gh-light-mode-only" alt='percy' title='percy' /> <img width="25" src="icons/dark/googleoptimize.svg#gh-light-mode-only" alt='googleoptimize' title='googleoptimize' /> <img width="25" src="icons/dark/googletagmanager.svg#gh-light-mode-only" alt='googletagmanager' title='googletagmanager' />
-<img width="25" src="icons/light/sentry.svg#gh-dark-mode-only" alt='sentry' title='sentry' /> <img width="25" src="icons/light/codacy.svg#gh-dark-mode-only" alt='codacy' title='codacy' /> <img width="25" src="icons/light/percy.svg#gh-dark-mode-only" alt='percy' title='percy' /> <img width="25" src="icons/light/googleoptimize.svg#gh-dark-mode-only" alt='googleoptimize' title='googleoptimize' /> <img width="25" src="icons/light/googletagmanager.svg#gh-dark-mode-only" alt='googletagmanager' title='googletagmanager' />
-
-**🤖 automate**
-
-<img width="25" src="icons/dark/githubactions.svg#gh-light-mode-only" alt='githubactions' title='githubactions' /> <img width="25" src="icons/dark/dependabot.svg#gh-light-mode-only" alt='dependabot' title='dependabot' /> <img width="25" src="icons/dark/dashlane.svg#gh-light-mode-only" alt='dashlane' title='dashlane' />
-<img width="25" src="icons/light/githubactions.svg#gh-dark-mode-only" alt='githubactions' title='githubactions' /> <img width="25" src="icons/light/dependabot.svg#gh-dark-mode-only" alt='dependabot' title='dependabot' /> <img width="25" src="icons/light/dashlane.svg#gh-dark-mode-only" alt='dashlane' title='dashlane' />
-
-### **Why?**
-
-Why not?
-
-[IPKISS]: https://linktr.ee/weareipkiss
-[twitter]: https://twitter.com/tombek
-[linkedin]: https://www.linkedin.com/in/thomas-bekaert/
+- Clarity over cleverness
+- Pragmatic, user-driven decisions
+- Strong opinions, open to discussion
 
 ---
 
-<small>Icons by [SimpleIcons](https://simpleicons.org/)</small>
+I'm open to freelance collaborations so let's connect on [LinkedIn](linkedin) 🤝
 
-<!-- https://codepen.io/sosuke/pen/Pjoqqp -->
+[linkedin]: https://www.linkedin.com/in/thomas-bekaert/
